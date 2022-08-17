@@ -1,9 +1,10 @@
  Olá! Eu sou o Gabriel Albuquerque! 
 
-- 🔭 Hoje estou em busca de uma  empresa para colaborar!
+- 🔭 Estagiando no TJRO como desenvolvedor utilizando SpringBoot, TypeScrypt, Kotlin e MongoDB
 - 📖 Atualmente estou aprendendo HTML, CSS e JavaScript 📖
 - 📫 Como entrar em contato comigo: biel123albuquerque@hotmail.com / @alb_biel (Instagram/Twitter) / Starjed#8514 (Discord)
 - 😄 Pronomes: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/Starjed">
