@@ -13,7 +13,7 @@
 </div>
  
  
- <div style="display: inline_block; padding: 3px"><br>
+ <div style="display: flex; padding: 3px"><br>
  
   <img align="center" alt= "Gabriel-Git" height="30" widht="45" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img align="center" alt= "Gabriel-Ts" height="30" widht="40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)">  
