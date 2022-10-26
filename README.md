@@ -1,7 +1,7 @@
  Olá! Eu sou o Gabriel Albuquerque! 
 
-- 🔭 Estagiando no TJRO como desenvolvedor utilizando SpringBoot, TypeScrypt, Kotlin e MongoDB
-- 📖 Atualmente estou aprendendo HTML, CSS e JavaScript 📖
+- 🔭 Estagiando no TJRO como desenvolvedor utilizando SpringBoot, TypeScrypt, Kotlin e MongoDB (08/2022)
+- 📖 Atualmente estou aprendendo Angular, Kotlin e SpringBoot 📖
 - 📫 Como entrar em contato comigo: biel123albuquerque@hotmail.com / @alb_biel (Instagram/Twitter) / Starjed#8514 (Discord)
 - 😄 Pronomes: ele/dele
 
@@ -13,21 +13,25 @@
 </div>
  
  
- <div style="display: inline_block" style="justify-content: center" style="align-items: center"><br>
+ <div style="display: inline_block"><br>
  
-<img align="center" alt= "Gabriel-Git" height="30" widht="20" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+<img align="center" alt= "Gabriel-Git" height="30" widht="45" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   
-<img align="center" alt= "Gabriel-Ts" height="30" widht="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)">
+<img align="center" alt= "Gabriel-Ts" height="30" widht="40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)">
   
-<img align="center" alt= "Gabriel-Intellij" height="30" widht="30" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img align="center" alt= "Gabriel-Intellij" height="30" widht="40" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   
-<img align="center" alt= "Gabriel-Spring" height="30" widht="30" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
+<img align="center" alt= "Gabriel-Spring" height="30" widht="40" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
   
-<img align="center" alt= "Gabriel-Angular" height="30" widht="30" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+<img align="center" alt= "Gabriel-Angular" height="30" widht="40" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   
-<img align="center" alt= "Gabriel-JUnit" height="30" widht="30" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+<img align="center" alt= "Gabriel-JUnit" height="30" widht="40" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
   
-<img align="center" alt= "Gabriel-ubuntu" height="30" widht="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img align="center" alt= "Gabriel-ubuntu" height="30" widht="40" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  
+<img align="center" alt= "Gabriel-ubuntu" height="30" widht="40" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white">
+  
+<img align="center" alt= "Gabriel-ubuntu" height="30" widht="40" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
 </div>
   
