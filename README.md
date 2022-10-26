@@ -13,25 +13,17 @@
 </div>
  
  
- <div style="display: inline_block"><br>
+ <div style="display: inline_block" style="padding: 3px"><br>
  
-<img align="center" alt= "Gabriel-Git" height="30" widht="45" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-  
-<img align="center" alt= "Gabriel-Ts" height="30" widht="40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)">
-  
-<img align="center" alt= "Gabriel-Intellij" height="30" widht="40" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  
-<img align="center" alt= "Gabriel-Spring" height="30" widht="40" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
-  
-<img align="center" alt= "Gabriel-Angular" height="30" widht="40" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  
-<img align="center" alt= "Gabriel-JUnit" height="30" widht="40" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
-  
-<img align="center" alt= "Gabriel-ubuntu" height="30" widht="40" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  
-<img align="center" alt= "Gabriel-ubuntu" height="30" widht="40" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white">
-  
-<img align="center" alt= "Gabriel-ubuntu" height="30" widht="40" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt= "Gabriel-Git" height="30" widht="45" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+  <img align="center" alt= "Gabriel-Ts" height="30" widht="40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)">  
+  <img align="center" alt= "Gabriel-Intellij" height="30" widht="40" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-       badge&logo=intellij-idea&logoColor=white">  
+  <img align="center" alt= "Gabriel-Spring" height="30" widht="40" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"> 
+  <img align="center" alt= "Gabriel-Angular" height="30" widht="40" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> 
+  <img align="center" alt= "Gabriel-JUnit" height="30" widht="40" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"> 
+  <img align="center" alt= "Gabriel-ubuntu" height="30" widht="40" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> 
+  <img align="center" alt= "Gabriel-ubuntu" height="30" widht="40" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"> 
+  <img align="center" alt= "Gabriel-ubuntu" height="30" widht="40" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
 </div>
   
