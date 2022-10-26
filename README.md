@@ -15,7 +15,10 @@
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
+<img align="center" alt= "Gabriel-Kt" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"
+
 </div>
   
   ##
@@ -27,5 +30,4 @@
   <a href="Starjed#8514 target="_blank"><img src= https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white target="_blank"></a> 
   </div>
   
-  [Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
