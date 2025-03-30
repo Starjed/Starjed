@@ -1,6 +1,5 @@
  Olá! Eu sou o Gabriel Albuquerque! 
-
-- 🔭 Estagiando no TJRO como desenvolvedor utilizando SpringBoot, TypeScrypt, Kotlin e MongoDB (08/2022)
+ 
 - 📖 Atualmente estou aprendendo Angular, Kotlin e SpringBoot 📖
 - 📫 Como entrar em contato comigo: biel123albuquerque@hotmail.com / @alb_biel (Instagram/Twitter) / Starjed#8514 (Discord)
 - 😄 Pronomes: ele/dele
